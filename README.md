@@ -1,2 +1,7 @@
 # gameJam
-Pac-man maze with coronavirus and horror features 
+Ideas:
+* Pac - man
+* Coronavirus theme
+* horror
+
+
