@@ -10,7 +10,10 @@ Engines:
 * Unity
 
 Languages:
-* C++
+* C#
 
 Video Demo:
-https://drive.google.com/file/d/1t5S1pzr0TlC6aOUW4s3LJpFSrD3lFjF2/view?usp=sharing
+https://youtu.be/7d0a12jbz3o
+
+To play the game: 
+download the Game.exe file in the files above
