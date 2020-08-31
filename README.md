@@ -1,6 +1,6 @@
 # gameJam
 Ideas:
-* Pac - man
+* PacMaze
 * Pandemic theme
 * horror - music ( noCopyRight sounds) 
 * flashlight to increase vision - limited resource of batteries
