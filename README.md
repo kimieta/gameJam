@@ -18,4 +18,4 @@ https://youtu.be/7d0a12jbz3o
 To play the game: 
 download the Game.exe file in the files above
 
-![](https://raw.githubusercontent.com/kimieta/gameJam/branch/path/to/Scene1.png)
+![alt tag](http://url/to/Scene1.png)
